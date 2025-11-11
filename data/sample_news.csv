@@ -1,0 +1,6 @@
+timestamp,author,description,sentiment_score
+2025-10-20 10:30:00,Reuters,Markets rally as inflation cools,0.75
+2025-10-20 11:00:00,BBC News,Heavy rainfall disrupts city traffic,-0.45
+2025-10-20 11:30:00,CNN,New AI model breaks performance records,0.82
+2025-10-20 12:15:00,TechCrunch,Major tech layoffs spark concern,-0.6
+2025-10-20 13:00:00,The Guardian,Healthcare advances show promise,0.67

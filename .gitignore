@@ -1,0 +1,27 @@
+# Ignore virtual environments
+venv/
+ENV/
+env/
+
+# Ignore environment variables
+.env
+*.env
+
+# Ignore AWS key files
+*.pem
+
+# Ignore cache files
+__pycache__/
+*.pyc
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore zipped or temporary files
+*.zip
+*.tar.gz
+*.log
