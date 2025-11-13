@@ -114,4 +114,4 @@ git push
 **Purnima VS**  
 Data Science with AI Intern @ Expertzlab Technologies Pvt Ltd  
 📍 Ernakulam, Kerala  
-📧 purnimavs03@gmail.com
+📧 purnimavs013@gmail.com
