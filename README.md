@@ -61,7 +61,19 @@ Files used:
 ---
 
 ## 🧩 Folder Structure
-
+news-streamlit/
+│
+├── data/
+│   └── sample_news.csv
+│
+├── app.py
+├── news_dashboard.py
+├── sentiment_model.pkl
+├── tfidf_vectorizer.pkl
+├── requirements.txt
+├── Dockerfile
+├── .gitignore
+└── README.md
 
 ---
 
@@ -74,3 +86,32 @@ Once you’ve pasted that in VS Code:
 git add README.md
 git commit -m "Added professional README with AWS deployment details"
 git push
+
+---
+
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)]()
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
+
+
+---
+
+## 🧠 Tech Stack
+
+- **Python 🐍**
+- **Streamlit**
+- **Scikit-learn**
+- **Pandas**
+- **AWS EC2 + crontab + tmux**
+- **Docker**
+
+---
+
+## 👩‍💻 Author
+
+**Purnima VS**  
+Data Science with AI Intern @ Expertzlab Technologies Pvt Ltd  
+📍 Ernakulam, Kerala  
+📧 purnimavs03@gmail.com
